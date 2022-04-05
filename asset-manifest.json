@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jogo_dos_11/static/css/main.073c9b0a.css",
-    "main.js": "/jogo_dos_11/static/js/main.d9a59c18.js",
+    "main.css": "/jogo_dos_11/static/css/main.1b6994a6.css",
+    "main.js": "/jogo_dos_11/static/js/main.db090bc7.js",
     "static/js/787.240c95de.chunk.js": "/jogo_dos_11/static/js/787.240c95de.chunk.js",
-    "static/media/logo.svg": "/jogo_dos_11/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ka1.ttf": "/jogo_dos_11/static/media/ka1.5df8cd545dcd2db2bf8b.ttf",
     "index.html": "/jogo_dos_11/index.html",
-    "main.073c9b0a.css.map": "/jogo_dos_11/static/css/main.073c9b0a.css.map",
-    "main.d9a59c18.js.map": "/jogo_dos_11/static/js/main.d9a59c18.js.map",
+    "main.1b6994a6.css.map": "/jogo_dos_11/static/css/main.1b6994a6.css.map",
+    "main.db090bc7.js.map": "/jogo_dos_11/static/js/main.db090bc7.js.map",
     "787.240c95de.chunk.js.map": "/jogo_dos_11/static/js/787.240c95de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d9a59c18.js"
+    "static/css/main.1b6994a6.css",
+    "static/js/main.db090bc7.js"
   ]
 }
