@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.title {
+  font-family: 'Arcade';
+  font-size: 130%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +40,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@font-face {
+  font-family: 'Arcade';
+  src: url("./static/fonts/Karmatic_Arcade/ka1.ttf") format('truetype');
 }
