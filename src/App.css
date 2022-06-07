@@ -33,6 +33,11 @@
   font-size: 130%;
 }
 
+.header-text {
+  font-family: 'Arcade';
+  font-size: 90%;
+}
+
 .Field {
   width: 60%;
   transform-style: preserve-3d;
