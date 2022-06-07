@@ -33,6 +33,12 @@
   font-size: 130%;
 }
 
+.Field {
+  width: 60%;
+  transform-style: preserve-3d;
+  transform: translateY(-20%) rotateX(35deg);
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
