@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/jogo_dos_11/static/css/main.1b6994a6.css",
-    "main.js": "/jogo_dos_11/static/js/main.db090bc7.js",
-    "static/js/787.240c95de.chunk.js": "/jogo_dos_11/static/js/787.240c95de.chunk.js",
+    "main.css": "/jogo_dos_11/static/css/main.b29cf094.css",
+    "main.js": "/jogo_dos_11/static/js/main.13d2184b.js",
     "static/media/ka1.ttf": "/jogo_dos_11/static/media/ka1.5df8cd545dcd2db2bf8b.ttf",
     "index.html": "/jogo_dos_11/index.html",
-    "main.1b6994a6.css.map": "/jogo_dos_11/static/css/main.1b6994a6.css.map",
-    "main.db090bc7.js.map": "/jogo_dos_11/static/js/main.db090bc7.js.map",
-    "787.240c95de.chunk.js.map": "/jogo_dos_11/static/js/787.240c95de.chunk.js.map"
+    "main.b29cf094.css.map": "/jogo_dos_11/static/css/main.b29cf094.css.map",
+    "main.13d2184b.js.map": "/jogo_dos_11/static/js/main.13d2184b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b6994a6.css",
-    "static/js/main.db090bc7.js"
+    "static/css/main.b29cf094.css",
+    "static/js/main.13d2184b.js"
   ]
 }
