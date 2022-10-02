@@ -1,5 +1,5 @@
 import './App.css';
-import Info from './Info';
+import Modal from './Components/Modal';
 import {useState} from 'react';
 
 function App() {
@@ -8,11 +8,18 @@ function App() {
   const [matchInfo, setMatchInfo] = useState('none');
   const [game, setGame] = useState({
     "team1": "Atlético-MG",
+    "team1Result": 2,
+    "team2Result": 2,
     "team2": "Flamengo",
     "tournament": "Supercopa do Brasil",
     "stadium": "Arena Pantanal",
     "date": "20/02/22"
   })
+
+  function changeMatchInfo() {
+    if(matchInfo === 'none') return setMatchInfo('')
+    else return setMatchInfo('none');
+  }
   
   if(!render)
     return (
@@ -33,11 +40,11 @@ function App() {
         <div className="App">
         <body className="App-header" style={{perspective: '1000px'}}>
             <img src={process.env.PUBLIC_URL + "/field.svg"} className="Field" alt="field" />
-            <div onClick={() => setMatchInfo('')}>
+            <div onClick={() => changeMatchInfo()}>
               <p className='header-text'>Jogo de Hoje</p>
             </div>
             <div style={{display: matchInfo}}>
-              <Info info={game}/>
+              <Modal info={game}/>
             </div>
         </body>
           
